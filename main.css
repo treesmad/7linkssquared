@@ -1,0 +1,11 @@
+h1{
+  color:yellow;
+  background-color: green;
+  text-align: center;
+}
+.imgbord{
+  border-radius: 23%;
+  border-style: solid;
+  border-color: black;
+  border-width: 2em;
+}
